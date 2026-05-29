@@ -1,4 +1,4 @@
-# Hi there, I'm Juan Pablo Sánchez Arroyave! 👋
+# Hi there, I'm Pablo Sánchez! 👋
 
 **Computational Physicist | Data Scientist | High-Performance Computing (HPC) Engineer-in-Training**  
 *Bridging theoretical physics with advanced software engineering.*
@@ -10,7 +10,7 @@
 I am a 9th-semester Physics student at the **Universidad de Antioquia (UdeA)** in Medellín, Colombia. I approach data and machine learning not just as algorithmic heuristics, but as complex physical systems governed by statistical mechanics, information theory, and high-dimensional geometry.
 
 *   📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pablosanchezarroyave/)
-*   🏆 **Talento Tech Alumnus:** Certified in *Análisis de Datos Integrador* (Advanced Level)
+*   🏆 **Talento Tech Alumnus:** Certified in *Análisis de Datos Integrador*
 
 ---
 
