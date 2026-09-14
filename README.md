@@ -36,7 +36,7 @@ My approach is grounded in **systems thinking**: I view algorithms not as isolat
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SiririComun&layout=compact&theme=dark&bg_color=0D1117&border_color=1E293B&title_color=00FFCC&text_color=94A3B8&langs_count=6" alt="Top Languages" width="60%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SiririComun&layout=compact&theme=dark&bg_color=0D1117&border_color=1E293B&title_color=00FFCC&text_color=94A3B8&langs_count=6&hide=jupyter%20notebook&hide=jupyter%20notebook" alt="Top Languages" width="60%" />
 
 </div>
 
